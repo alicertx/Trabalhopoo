@@ -1,4 +1,4 @@
-// exemplo da questão 1
+// exemplo da questão 3
 abstract class Forma {
     abstract double calcularArea(); // Método abstrato
 }
